@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project/Demo Projects/TatvasoftPrac/app/src/main/res/drawable/ic_person.xml" value="0.1595" />
+        <entry key="..\:/Project/Demo Projects/TatvasoftPrac/app/src/main/res/drawable/ic_placeholder.xml" value="0.1595" />
+        <entry key="..\:/Project/Demo Projects/TatvasoftPrac/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Project/Demo Projects/TatvasoftPrac/app/src/main/res/layout/activity_user_list.xml" value="0.1" />
+        <entry key="..\:/Project/Demo Projects/TatvasoftPrac/app/src/main/res/layout/item_image.xml" value="0.25025641025641027" />
+        <entry key="..\:/Project/Demo Projects/TatvasoftPrac/app/src/main/res/layout/item_user.xml" value="0.1" />
+        <entry key="..\:/Project/Demo Projects/TatvasoftPractical/TatvasoftPrac/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Project/Demo Projects/TatvasoftPractical/TatvasoftPrac/app/src/main/res/layout/activity_user_list.xml" value="0.25025641025641027" />
+        <entry key="..\:/Project/Demo Projects/TatvasoftPractical/TatvasoftPrac/app/src/main/res/layout/fragment_dashboard.xml" value="0.25416666666666665" />
+        <entry key="..\:/Project/Demo Projects/TatvasoftPractical/TatvasoftPrac/app/src/main/res/layout/fragment_task1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Project/Demo Projects/TatvasoftPractical/TatvasoftPrac/app/src/main/res/layout/fragment_task2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Project/Demo Projects/TatvasoftPractical/TatvasoftPrac/app/src/main/res/layout/item_block.xml" value="0.25416666666666665" />
+        <entry key="..\:/Project/Demo Projects/TatvasoftPractical/TatvasoftPrac/app/src/main/res/layout/item_image.xml" value="0.25416666666666665" />
+        <entry key="..\:/Project/Demo Projects/TatvasoftPractical/TatvasoftPrac/app/src/main/res/layout/item_user.xml" value="0.25416666666666665" />
+        <entry key="..\:/Project/Demo Projects/TatvasoftPractical/TatvasoftPrac/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1595" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
