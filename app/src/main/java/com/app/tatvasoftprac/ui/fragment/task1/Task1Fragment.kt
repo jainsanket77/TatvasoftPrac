@@ -69,8 +69,8 @@ class Task1Fragment : BaseFragment<FragmentTask1Binding>() {
             }
         })
         binding.rvBlock.adapter = adapter
-        // after 750MS random block is clickable.
-        delay(750L) {
+        // after 1Sec, random block is clickable.
+        delay(1000L) {
             adapter.makeAvailable()
         }
     }

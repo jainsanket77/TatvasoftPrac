@@ -23,7 +23,7 @@ class DashboardFragment : BaseFragment<FragmentDashboardBinding>() {
                     navigate(R.id.action_dashboardFragment_to_task1Fragment)
                 }
                 btnTask2.setOnClickListener {
-
+                    navigate(R.id.action_dashboardFragment_to_task2Fragment)
                 }
             }
         } catch (e: Exception) {
