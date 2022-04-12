@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_graph"
+    app:startDestination="@id/dashboardFragment">
+
+    <fragment
+        android:id="@+id/dashboardFragment"
+        android:name="com.app.tatvasoftprac.ui.fragment.dashboard.DashboardFragment"
+        android:label="DashboardFragment">
+        <action
+            android:id="@+id/action_dashboardFragment_to_task1Fragment"
+            app:destination="@id/task1Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/task1Fragment"
+        android:name="com.app.tatvasoftprac.ui.fragment.task1.Task1Fragment"
+        android:label="Task1Fragment" />
+</navigation>
